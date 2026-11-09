@@ -1,4 +1,4 @@
-# Creating an AKS(Azure Kuberneties Cluster) using Terraform and Azure DevOps Pipelines
+# Creating an AKS(Azure Kubernetes Cluster) using Terraform and Azure DevOps Pipelines
 
 Automate the creation of a secure AKS cluster using Terraform and Azure Key Vault. Leverage Azure DevOps Pipelines for continuous deployment, streamlining your workflow.
 
