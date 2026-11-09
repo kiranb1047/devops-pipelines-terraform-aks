@@ -64,6 +64,10 @@ Automate the creation of a secure AKS cluster using Terraform and Azure Key Vaul
     ```
     kubectl get nodes
     ```
+    
+# Project background
+
+These projects are hands-on labs I completed while studying for Microsoft's AZ-104 (Azure Administrator) material. The ARM templates (files starting with `az104-`) come from the Microsoft lab content. I deployed them myself in my own Azure subscription, configured the networking, security rules and DNS, and documented the results here.
 
 # Conclusion
 
